@@ -12,8 +12,9 @@ const ageCheck = (age) => {
      console.log('PARTY!!!!!!')
     } else {
         console.log('no drinks for you');
-    };
+    }
+};
 
 
 ageCheck(12); // 'no drinks for you'
-ageCheck(24); // 'PARTY!!!!!!
+ageCheck(24); 
